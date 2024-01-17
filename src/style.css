@@ -1,0 +1,22 @@
+body{
+    background-color: blue;
+}
+.movieList p{
+    background-color: black;
+    color: white;
+    width: fit-content;
+    
+
+}
+.movieList{
+    display: flex;
+    justify-content: space-around;
+}
+.movieDisplay img{
+    width: 400px;
+}
+.movieDisplay p{
+    background-color: black;
+    color: white;
+    width: fit-content;
+}
